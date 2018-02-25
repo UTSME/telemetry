@@ -1,0 +1,17 @@
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\bin\Debug\Telemetry WPF.exe.config
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\bin\Debug\Telemetry WPF.exe
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\bin\Debug\Telemetry WPF.pdb
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\MainWindow.g.cs
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\App.g.cs
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF_MarkupCompile.cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF_MarkupCompile.lref
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\MainWindow.baml
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.g.resources
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry_WPF.Properties.Resources.resources
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.csproj.GenerateResource.Cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.exe
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.pdb
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\obj\Debug\Telemetry WPF.csprojResolveAssemblyReference.cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\bin\Debug\Arction.WPF.Gauges.dll
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry WPF\bin\Debug\Arction.WPF.Gauges.xml

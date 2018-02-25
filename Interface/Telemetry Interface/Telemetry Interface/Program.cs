@@ -81,7 +81,7 @@ namespace Telemetry_Interface
                     string message = _port.ReadLine();
                     System.Diagnostics.Debug.WriteLine(message);
 
-                    if (message != "" || message != null)
+                    if (message != "" && message != null)
                     {
                         currentValue = Convert.ToInt32(message);
                         System.Diagnostics.Debug.WriteLine("Attempting convert");

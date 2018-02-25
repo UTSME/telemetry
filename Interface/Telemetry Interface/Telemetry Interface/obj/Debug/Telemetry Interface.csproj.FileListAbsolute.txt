@@ -8,3 +8,15 @@ C:\Users\Brendon\Documents\Visual Studio 2017\Projects\Telemetry Interface\Telem
 C:\Users\Brendon\Documents\Visual Studio 2017\Projects\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.csproj.CoreCompileInputs.cache
 C:\Users\Brendon\Documents\Visual Studio 2017\Projects\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.exe
 C:\Users\Brendon\Documents\Visual Studio 2017\Projects\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.pdb
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\bin\Debug\Telemetry Interface.exe.config
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\bin\Debug\Telemetry Interface.exe
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\bin\Debug\Telemetry Interface.pdb
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\bin\Debug\Arction.WPF.Gauges.dll
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\bin\Debug\Arction.WPF.Gauges.xml
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.csprojResolveAssemblyReference.cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry_Interface.Form1.resources
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry_Interface.Properties.Resources.resources
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.csproj.GenerateResource.Cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.csproj.CoreCompileInputs.cache
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.exe
+C:\Users\Brendon\Desktop\Telemetry\Interface\Telemetry Interface\Telemetry Interface\obj\Debug\Telemetry Interface.pdb
