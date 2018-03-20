@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Telemetry_WPF"
-        xmlns:agc="http://www.arction.com/gauges/" x:Class="Telemetry_WPF.MainWindow"
+        xmlns:agc="http://www.arction.com/gauges/" xmlns:oxy="http://oxyplot.org/wpf" x:Class="Telemetry_WPF.MainWindow"
         mc:Ignorable="d"
         Title="Telemetry WPF" Height="679.56" Width="1282.859" WindowState="Maximized" Closing="Window_Closing">
     <Grid>
@@ -17,7 +17,7 @@
                     <Button x:Name="refreshComBtn" Content="Refresh COM's" HorizontalAlignment="Left" Margin="10,65,0,0" VerticalAlignment="Top" Width="120" Click="refreshComBtn_Click"/>
                 </Grid>
             </TabItem>
-            <TabItem Header="Data">
+            <TabItem Header="Gauges">
                 <Grid Background="#FFE5E5E5">
                     <agc:Gauge x:Name="gaugeSpeed" HorizontalAlignment="Left" Height="312" Margin="10,10,0,0" VerticalAlignment="Top" Width="351" Theme="CarMeter" AdjacentPadding="7" ArcPadding="5" Stroke="Black" Fill="Black">
                         <agc:Gauge.PrimaryScale>
@@ -42,6 +42,8 @@
                     </agc:Gauge>
                 </Grid>
             </TabItem>
+            <TabItem Header="Data Stream"/>
         </TabControl>
+        <oxy:TwoColorLineSeries HorizontalAlignment="Left" Height="100" Margin="-110,364,0,0" VerticalAlignment="Top" Width="100"/>
     </Grid>
 </Window>
